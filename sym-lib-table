@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name VEAB_wiring-rescue)(type Legacy)(uri ${KIPRJMOD}/VEAB_wiring-rescue.lib)(options "")(descr ""))
+)
